@@ -14,3 +14,4 @@ while [ 1 -eq 1 ]; do
     exit 1
   fi
   sleep 30
+done
